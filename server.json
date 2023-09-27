@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-09-25T19:37:41.206Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-09-25T19:37:41.206Z"
+    },
+    {
+      "description": "Curso Ignite",
+      "price": 1200,
+      "category": "Estudo",
+      "type": "outcome",
+      "createdAt": "2023-09-26T20:19:38.664Z",
+      "id": 3
+    },
+    {
+      "description": "SIte",
+      "price": 1200,
+      "category": "Freela",
+      "type": "income",
+      "createdAt": "2023-09-27T13:10:51.667Z",
+      "id": 4
+    }
+  ]
+}
